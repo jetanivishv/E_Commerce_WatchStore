@@ -1,0 +1,7 @@
+.customSelect {
+    :global {
+      .ant-select-selection-item{
+        color: white;
+      }
+    }
+  }

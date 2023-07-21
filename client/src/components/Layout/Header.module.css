@@ -1,0 +1,11 @@
+.custom-letter-spacing {
+  letter-spacing: 3px;
+}
+
+.custom {
+  background-color: black;
+}
+
+.custom2{
+    transition: opacity 300ms ease-out;
+}

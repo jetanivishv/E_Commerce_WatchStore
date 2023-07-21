@@ -1,0 +1,13 @@
+.contactus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    margin: 0;
+    padding: 0;
+}
+
+.img-custom{
+    width:90vh;
+    height: 60vh;
+}

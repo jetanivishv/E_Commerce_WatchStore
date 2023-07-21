@@ -1,0 +1,13 @@
+.policy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 74vh;
+    margin: 0;
+    padding: 0;
+}
+
+.img-custom{
+    width:80vh;
+    height: 70vh;
+}

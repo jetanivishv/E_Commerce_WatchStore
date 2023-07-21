@@ -1,0 +1,22 @@
+.register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 74vh;
+    flex-direction: column;
+}
+
+.custom{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 2px solid black;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    margin-left: 193px;
+    background: rgba(0, 0, 0, 0.35); 
+}
+
+
